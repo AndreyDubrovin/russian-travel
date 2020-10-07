@@ -6,5 +6,5 @@
 4. БЭМ.
 
 Ссылка на проект:
-1. Сделать адаптивность с помощью grid.
+1. [Путешествия по России](https://andreydubrovin.github.io/russian-travel/)
 
