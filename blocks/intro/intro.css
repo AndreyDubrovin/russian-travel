@@ -1,0 +1,11 @@
+.intro {
+  max-width: 984px;
+  margin: auto;
+  color: #FFFFFF;
+}
+
+@media screen and (max-width: 767px) {
+  .intro {
+    max-width: 288px;
+  }
+ }

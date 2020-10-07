@@ -1,0 +1,5 @@
+.header__lang-link_language_ru {
+  text-decoration: underline;
+  margin-right: 18px;
+  grid-column: -2/-3;
+}

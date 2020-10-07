@@ -1,0 +1,7 @@
+.place__links {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-self: flex-end;
+  margin: 0;
+}

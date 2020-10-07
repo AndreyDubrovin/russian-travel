@@ -1,0 +1,19 @@
+.place {
+  display: flex;
+  max-width: 100%;
+  flex-wrap: wrap;
+  padding-bottom: 86px;
+}
+
+
+@media screen and (max-width: 1023px) {
+  .place {
+    padding-bottom: 78px;
+  }
+ }
+
+ @media screen and (max-width: 767px) {
+  .place {
+    padding-bottom: 67px;
+  }
+ }
